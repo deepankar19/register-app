@@ -9,17 +9,17 @@
 #Kubernetes
 #ArgoCD
 
-#prerequisites aws, dockerhub, github account credentials
-#Install and Configure the Jenkins-Master and Jenkins-Agent
-#Integrate Maven to Jenkins and Add GitHub Credentials to Jenkins
-#Create Pipeline Script(Jenkinsfile) for Build & Test Artifacts and Create CI Job on Jenkins
-#Install and Configure the SonarQube
-#Integrate SonarQube with Jenkins
-#Build and Push Docker Image using Pipeline Script
-#Setup Bootstrap Server for eksctl and Setup Kubernetes using eksctl
-#ArgoCD Installation on EKS Cluster and Add EKS Cluster to ArgoCD
-#Configure ArgoCD to Deploy Pods on EKS and Automate ArgoCD Deployment Job using GitOps GitHub Repository
-#DONE - Verify CI/CD Pipeline by Doing Test Commit on GitHub Application Repo
+# prerequisites aws, dockerhub, github account credentials
+# Install and Configure the Jenkins-Master and Jenkins-Agent
+# Integrate Maven to Jenkins and Add GitHub Credentials to Jenkins
+# Create Pipeline Script(Jenkinsfile) for Build & Test Artifacts and Create CI Job on Jenkins
+# Install and Configure the SonarQube
+# Integrate SonarQube with Jenkins
+# Build and Push Docker Image using Pipeline Script
+# Setup Bootstrap Server for eksctl and Setup Kubernetes using eksctl
+# ArgoCD Installation on EKS Cluster and Add EKS Cluster to ArgoCD
+# Configure ArgoCD to Deploy Pods on EKS and Automate ArgoCD Deployment Job using GitOps GitHub Repository
+# DONE - Verify CI/CD Pipeline by Doing Test Commit on GitHub Application Repo
 #=====================================================================================================================
 
 # Install and Configure the Jenkins-Master and Jenkins-Agent
